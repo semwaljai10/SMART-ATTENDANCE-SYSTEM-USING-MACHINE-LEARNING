@@ -28,3 +28,31 @@ Automated Attendance Logging: Automatically records attendance upon recognition.
 Real-Time Data Storage: Attendance is stored securely in a database for easy access and reporting.
 User-Friendly Interface: Simple interface for users to register, log in, and view attendance.
 Notifications and Alerts: Option for sending alerts for absentees or irregular attendance patterns.
+
+
+Models Used:
+
+1.  Face Recognition Model
+
+    Model Type: Convolutional Neural Networks (CNN)
+
+    Pretrained Models: OpenCV’s Haar Cascade or Dlib with a pretrained model for face detection, followed by FaceNet or DeepFace for facial recognition.
+
+    Purpose: Detect and recognize faces in real time for marking attendance.
+    
+2.  Attendance Prediction/Analysis Model
+
+  Model Type: Decision Trees or Random Forest Classifier
+  
+  Purpose: Analyzes attendance trends, predicts irregularities, and helps administrators get insights into absenteeism or attendance patterns.
+
+3.  Data Preprocessing Models
+
+  Purpose: Models such as Principal Component Analysis (PCA) are used to reduce the dimensionality of the face embeddings for faster recognition.  
+
+
+Here’s a more refined version of your description:
+
+"This model includes two sub folders: `password` and `attendance`. The `password` folder contains three files: `signup.py`, `signin.py`, and `db.csv`, which is used to store the teachers' credentials. The `attendance` folder contains the `attendance.csv` file, which holds the attendance data for the corresponding date."
+
+
