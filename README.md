@@ -10,11 +10,10 @@ Why This Project Is Useful?
 
 
 Manual attendance tracking can be time-consuming and prone to errors. The Smart Attendance System:
-
-Ensures high accuracy using machine learning algorithms.
-Reduces the need for manual intervention, improving productivity.
-Provides real-time attendance reports and insights.
-Can be adapted for various settings such as schools, universities, and corporate offices.
+1.Ensures high accuracy using machine learning algorithms.
+2.Reduces the need for manual intervention, improving productivity.
+3.Provides real-time attendance reports and insights.
+4.Can be adapted for various settings such as schools, universities, and corporate offices.
 
 
 Features:
