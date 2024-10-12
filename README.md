@@ -51,8 +51,6 @@ Models Used:
   Purpose: Models such as Principal Component Analysis (PCA) are used to reduce the dimensionality of the face embeddings for faster recognition.  
 
 
-Here’s a more refined version of your description:
-
 "This model includes two sub folders: `password` and `attendance`. The `password` folder contains three files: `signup.py`, `signin.py`, and `db.csv`, which is used to store the teachers' credentials. The `attendance` folder contains the `attendance.csv` file, which holds the attendance data for the corresponding date."
 
 
